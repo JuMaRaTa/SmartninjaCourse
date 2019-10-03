@@ -1,0 +1,23 @@
+h1 {
+    color:black;
+    background-color: #CD5C5C;
+    font-family:Arial,
+    font-size:large;
+}
+h2 {
+    color:#DC143C;
+    background-color: #90EE90;
+}
+.pink {
+    color:#ff6666;
+}
+.image {
+  border: 18px black dotted;
+  padding: 10px;
+}
+.main {
+    background-color: #556B2F;
+    width: 200px;
+    margin: 0 auto;
+    height: 50px;
+}
